@@ -10,7 +10,7 @@
 #define DEFAULT_PORT "31331"
 #define DEFAULT_BUFFLEN 5000
 #define AUTHOR "fokt"
-#define GITHUB "github.com/fachrioktavian/DamnVulnerabilityCApps"
+#define GITHUB "github.com/fachrioktavian/DVCA"
 
 DWORD WINAPI ConnHandler(LPVOID CSocket);
 void ShowHeader();
@@ -102,13 +102,13 @@ void ShowWarning() {
 }
 
 void ShowHeader() {
-	printf("////////////////////////////////////////////////////////////\n");
-	printf("/ Damn Vulnerability C App                                 /\n");
-	printf("/ Version: %s                                            /\n", VERSION);
-	printf("/ Type: %s                            /\n", TYPE);
-	printf("/ Author: %s                                             /\n", AUTHOR);
+	printf("//////////////////////////////////////////\n");
+	printf("/ Damn Vulnerability CWin32 Apps         /\n");
+	printf("/ Version: %s                          /\n", VERSION);
+	printf("/ Type: %s          /\n", TYPE);
+	printf("/ Author: %s                           /\n", AUTHOR);
 	printf("/ Github: %s /\n", GITHUB);
-	printf("////////////////////////////////////////////////////////////\n\n");
+	printf("//////////////////////////////////////////\n\n");
 }
 
 DWORD WINAPI ConnHandler(LPVOID CSocket) {
