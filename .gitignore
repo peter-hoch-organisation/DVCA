@@ -2,3 +2,11 @@ ClassicBufferOverflow/dvca_bofexp.py
 ClassicBufferOverflow/egghunter.txt
 ClassicBufferOverflow/patt1000.txt
 ClassicBufferOverflow/pload.txt
+SEHBufferOverflow/3000.txt
+SEHBufferOverflow/dvca_seh.obj
+SEHBufferOverflow/dvca_sehlib.a
+SEHBufferOverflow/dvca_sehlib.dll
+SEHBufferOverflow/dvca_sehlib.exp
+SEHBufferOverflow/dvca_sehlib.lib
+SEHBufferOverflow/dvca_sehlib.o
+SEHBufferOverflow/dvca_sehlib.obj
