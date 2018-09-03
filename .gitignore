@@ -10,3 +10,4 @@ SEHBufferOverflow/dvca_sehlib.exp
 SEHBufferOverflow/dvca_sehlib.lib
 SEHBufferOverflow/dvca_sehlib.o
 SEHBufferOverflow/dvca_sehlib.obj
+SEHBufferOverflow/tmp.py
